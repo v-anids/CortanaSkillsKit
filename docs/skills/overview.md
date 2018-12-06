@@ -152,7 +152,7 @@ Run Cortana Skills on any platform that supports Cortana. Cortana is available o
 
 ## Next steps  
 
-Get ready to create you Cortana Skill.  
+Get ready to create you Cortana Skill.    
 
 >[!TIP]
 > For details about creating your first skill, visit the [Create Your First Skill](./get-started.md) page.  
